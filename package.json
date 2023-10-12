@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Quasar Project",
   "productName": "Quasar App",
-  "author": "chanon777 <chanon150996@gmail.com>",
+  "author": "FarrewX <a0987142276@gmail.com>",
   "private": true,
   "scripts": {
     "test": "echo \"See package.json => scripts for available tests.\" && exit 0",

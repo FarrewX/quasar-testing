@@ -21,7 +21,7 @@ export default {
   },
   methods: {
     submitForm() {
-      this.$emit('submit form1')
+      this.$emit('submit form')
     },
   }
 }

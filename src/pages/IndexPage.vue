@@ -19,7 +19,7 @@ export default {
 
   data() {
     return {
-      title: 'Vue is  awesome.',
+      title: 'Vue is awesome.',
     }
   },
 }
